@@ -1,0 +1,30 @@
+_repo: Warrior-of-the-Dawn_32462
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32462-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Browne, Howard
+    aliases:
+    - Carleton, H. B.
+    - Pollard, John
+    birthdate: 1907
+    deathdate: 1999
+    gutenberg_agent_id: '35119'
+    url: http://www.gutenberg.org/2009/agents/35119
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Browne
+description: ''
+gutenberg_issued: '2010-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32462'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prehistoric peoples -- Fiction'
+- !lcc 'PS'
+title: Warrior of the Dawn
+url: http://www.gutenberg.org/ebooks/32462
